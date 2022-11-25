@@ -1,0 +1,29 @@
+Extras: https://storyset.com/
+
+php: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png
+php código: 
+JavaScript: https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo.png
+JavaScript código: 
+Java: https://jdocs.com/wp-content/uploads/2018/07/Java.png
+Java código: 
+Ruby: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png
+Ruby código: 
+python: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
+python código: 
+swift: https://developer.apple.com/swift/images/swift-logo.svg
+swift código: 
+html: https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png
+html código: 
+css: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png
+css código: 
+
+React Native: https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg
+Xamarin: https://docs.microsoft.com/pt-br/media/logos/logo_xamarin.svg
+Swiftic: https://static-marketing.swiftic.com/images/site/2021/02/logo-for-website_564X270_black.png
+Ruby on Rails: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/640px-Ruby_On_Rails_Logo.svg.png
+	MVC: https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/08/MVC.png
+Express JS *****(INSPIRADO)*****: https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg
+Laravel: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png
+
+Android: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Android_new_logo_2019.svg/1280px-Android_new_logo_2019.svg.png
+iOS: https://logodownload.org/wp-content/uploads/2021/11/ios-logo-1.png
