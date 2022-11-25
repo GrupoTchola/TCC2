@@ -159,4 +159,4 @@ inputs = this.parentNode.getElementsByTagName('input')
     }
 }</script>
 </html>
-<?php endif; ?>.
+<?php endif; ?>
